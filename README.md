@@ -24,4 +24,5 @@ Download the latest release of **Synthetic Test Engine** - a powerful image tran
 ## License
 
 Proprietary software. Trial version includes watermark on output images.
-Contact for licensing information.
+Contact for licensing information(bengalurubyte@gmail.com)
+
